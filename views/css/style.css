@@ -45,7 +45,7 @@ a {
 }
 
 main {
-	height: calc(100vh - var(--header-height) * 2);
+	height: 100vh;
 
 	display: flex;
 	flex-direction: column;
